@@ -1,0 +1,31 @@
+#main {
+    font-size: 20px;
+}
+h1 {
+    text-shadow: 1px 1px 2px black, 0 0 1em lime, 0 0 0.2em lime;
+    color: white;
+    font: 1.5em Georgia, serif;
+    text-align: center;
+
+}
+body {
+  background-image: url(https://media.giphy.com/media/3ohzAt9ig3CjPDGehG/giphy.gif);  
+}
+nav:hover{
+    background: url(https://media.tenor.com/images/81e7b3e85625c2c4b23111100262f163/tenor.gif);
+}
+* {
+  font-weight: bold;
+  color: lime;
+}
+p {
+ text-shadow: 0 0 20px black;
+}
+#tracklist {
+    text-align: center;
+}
+.t1 {
+    text-decoration-line: overline;
+    text-decoration-style: dotted;
+    font-size: 25px;
+}
