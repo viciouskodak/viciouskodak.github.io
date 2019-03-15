@@ -11,10 +11,7 @@ h1 {
 body {
   background-image: url(https://media.giphy.com/media/3ohzAt9ig3CjPDGehG/giphy.gif);  
 }
-nav:hover{
-    /* background: url(https://media.tenor.com/images/81e7b3e85625c2c4b23111100262f163/tenor.gif);
-    text-color: white; */
-}
+
 * {
   font-weight: bold;
   color: lime;
