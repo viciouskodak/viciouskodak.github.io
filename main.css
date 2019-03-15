@@ -13,6 +13,7 @@ body {
 }
 nav:hover{
     background: url(https://media.tenor.com/images/81e7b3e85625c2c4b23111100262f163/tenor.gif);
+    color: white;
 }
 * {
   font-weight: bold;
